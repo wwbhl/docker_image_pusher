@@ -1,1 +1,1 @@
-imroc/logrotate:3.21
+tomcat:9.0-jdk8-openjdk-buster
