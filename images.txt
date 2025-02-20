@@ -1,3 +1,4 @@
 tomcat:9.0-jdk8-openjdk-buster
 weibh/k8m:0.0.39
 1panel/kubepi
+nginx:1.21.1
