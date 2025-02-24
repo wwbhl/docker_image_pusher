@@ -3,3 +3,5 @@ weibh/k8m:0.0.39
 1panel/kubepi
 nginx:1.21.1
 alpine:latest
+louislam/dockge:1.4.2
+louislam/uptime-kuma:1.23.16
