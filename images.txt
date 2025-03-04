@@ -8,3 +8,4 @@ louislam/uptime-kuma:1.23.16
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.11.0
 registry.k8s.io/metrics-server/metrics-server:v0.7.2
 quay.io/kiali/kiali:v2.5
+ghcr.io/prometheus-operator/prometheus-config-reloader:v0.78.2"
