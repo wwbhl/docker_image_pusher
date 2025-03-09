@@ -8,7 +8,6 @@ louislam/uptime-kuma:1.23.16
 registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.11.0
 registry.k8s.io/metrics-server/metrics-server:v0.7.2
 quay.io/kiali/kiali:v2.5
-ghcr.io/prometheus-operator/prometheus-config-reloader:v0.78.2"
 gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:cd4bb3af998f4199ea760718a309f50d1bcc9d5c4a1c5446684a6a0115a7aad5
 gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:ac1a83ba7c278ce9482b7bbfffe00e266f657b7d2356daed88ffe666bc68978e
 gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:df24c6d3e20bc22a691fcd8db6df25a66c67498abd38a8a56e8847cb6bfb875b
