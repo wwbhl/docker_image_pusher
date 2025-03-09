@@ -1,17 +1,2 @@
-tomcat:9.0-jdk8-openjdk-buster
-weibh/k8m:0.0.39
-1panel/kubepi
-nginx:1.21.1
-alpine:latest
-louislam/dockge:1.4.2
-louislam/uptime-kuma:1.23.16
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.11.0
-registry.k8s.io/metrics-server/metrics-server:v0.7.2
-quay.io/kiali/kiali:v2.5
-gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:cd4bb3af998f4199ea760718a309f50d1bcc9d5c4a1c5446684a6a0115a7aad5
-gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:ac1a83ba7c278ce9482b7bbfffe00e266f657b7d2356daed88ffe666bc68978e
-gcr.io/knative-releases/knative.dev/serving/cmd/controller@sha256:df24c6d3e20bc22a691fcd8db6df25a66c67498abd38a8a56e8847cb6bfb875b
-gcr.io/knative-releases/knative.dev/serving/cmd/webhook@sha256:d842f05a1b05b1805021b9c0657783b4721e79dc96c5b58dc206998c7062d9d9
-gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:e021debd08e40075946b4c433c70a601579bf1ba322e980ec6d50cecb8cbd535
-gcr.io/knative-releases/knative.dev/net-istio/cmd/controller@sha256:781a242ee3f5fcf79264b98c65aff8185427404c51ab8ff723e2ebfaf085c593
+gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:846e3e40ac21966cbaa4e2aeaa856f0faa8fb26cfaf8e23baada1bad4087be8e
 
